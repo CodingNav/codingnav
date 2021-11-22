@@ -41,14 +41,9 @@ I'm a Full Stack Developer working with HTML, CSS, and Javascript. I enjoy desig
 
 ********
 
-  
-<details>
-  <summary>📊 Github Stats</summary>
+#### 📊 Github Stats
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codingnav&show_icons=true&theme=gotham" alt="Joel's Stats" /> 
 
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codingnav&show_icons=true&theme=gotham" alt="Joel's Stats" /> 
 
-</details>
-
-  #### Profile Views
-  
+#### Profile Views
 ![Visitor Count](https://profile-counter.glitch.me/{codingnav}/count.svg) 
