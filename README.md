@@ -36,7 +36,7 @@ I'm a Full Stack Developer working with HTML, CSS, and Javascript. I enjoy desig
 
 ## Find me around the web 🌍
 
-- [**Portfolio**](https://codingnav.com)
+- [**Portfolio**](https://codingnav.github.io/Portfolio/)
 - [**LinkedIn**](https://www.linkedin.com/in/codingnav)
 
 ********
