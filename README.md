@@ -7,7 +7,7 @@ I'm a Full Stack Developer working with HTML, CSS, and Javascript. I enjoy desig
 
 - 🌱 Learning Typescript and Angular
 - 👯 Open to collaborate on projects
-- 📫 Reach me at [**codingnavleen@gmail.com**](codingnavleen@gmail.com) OR [**LinkedIn**](https://linkedin.com/in/joelmugalu)
+- 📫 Reach me at [**codingnavleen@gmail.com**](codingnavleen@gmail.com) OR [**LinkedIn**](https://www.linkedin.com/in/codingnav)
 
 
 ## Skills 🚀
@@ -42,7 +42,7 @@ I'm a Full Stack Developer working with HTML, CSS, and Javascript. I enjoy desig
 ********
 
 #### 📊 Github Stats
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codingnav&show_icons=true&theme=gotham" alt="Joel's Stats" /> 
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codingnav&show_icons=true&theme=gotham" alt="Navleen's Stats" /> 
 
 
 #### Profile Views
