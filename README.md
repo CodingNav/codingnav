@@ -5,7 +5,7 @@
 I'm a Full Stack Developer working with HTML, CSS, and Javascript. I enjoy designing and creating websites from scratch. I also love catching up with other developers. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/codingnav/).
 
 
-- 🌱 Learning Typescript and Angular
+- 🌱 Learning Ruby on Rails
 - 👯 Open to collaborate on projects
 - 📫 Reach me at [**codingnavleen@gmail.com**](codingnavleen@gmail.com) OR [**LinkedIn**](https://www.linkedin.com/in/codingnav)
 
@@ -18,7 +18,9 @@ I'm a Full Stack Developer working with HTML, CSS, and Javascript. I enjoy desig
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-blueviolet?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
@@ -43,7 +45,3 @@ I'm a Full Stack Developer working with HTML, CSS, and Javascript. I enjoy desig
 
 #### 📊 Github Stats
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codingnav&show_icons=true&theme=gotham" alt="Navleen's Stats" /> 
-
-
-#### Profile Views
-![Visitor Count](https://profile-counter.glitch.me/{codingnav}/count.svg) 
