@@ -42,6 +42,3 @@ I'm a Full Stack Developer working with HTML, CSS, and Javascript. I enjoy desig
 - [**LinkedIn**](https://www.linkedin.com/in/codingnav)
 
 ********
-
-#### 📊 Github Stats
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codingnav&show_icons=true&theme=gotham" alt="Navleen's Stats" /> 
